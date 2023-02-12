@@ -15,4 +15,6 @@
 #### Command used to build image of nginx from docker-compose 
 docker compose up --build
 
+git url: https://github.com/omerhabib62/IBA-BigData-27506
+
 Alhamdulillah! its done !
